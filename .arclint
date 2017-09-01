@@ -1,0 +1,19 @@
+{
+  "linters": {
+    "spelling": {
+      "type": "spelling"
+    },
+
+    "filename": {
+      "type": "filename"
+    },
+
+    "text": {
+      "type": "text"
+    },
+
+    "merge-conflict": {
+      "type": "merge-conflict"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "phabricator.uri" : "https://invino.phacility.com/",
+  "base": "git:merge-base(origin/dev)",
+  "arc.land.onto.default": "dev",
+  "arc.feature.start.default": "dev",
+  "history.immutable": false
+}
